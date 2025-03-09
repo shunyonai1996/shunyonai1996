@@ -20,9 +20,9 @@
 
 ---
 ## 本業
-### 概要
-期間:2022年11月~現在
-証券会社のグループ子会社にて、自社の証券システムの保守開発およびマネジメント業務を担当。
+### [株式会社CRUDIST](https://crudist.jp/)：2022年11月~現在
+証券会社のグループ子会社。
+自社の証券システムの保守開発およびマネジメント業務を担当。
 
 ### 開発言語等
 - JavaScript/Vue.js
@@ -32,7 +32,7 @@
 - Docker/Git/Backlog
 
 ## 副業
-### [株式会社fav](https://fav.blue/)(2023年11月~2024年10月)
+### [株式会社fav](https://fav.blue/)：2023年11月~2024年10月
 #### 概要
 LLMを用いたロールプレイングサービス開発にアサイン。 ※無給
 自身とCTOの2人体制で開発。
@@ -43,7 +43,7 @@ CTOはLLM側の開発を担当。
 - AWS (EC2, Aurora, RDS for PostgreSQL, S3, API Gateway, Lambda(Python), Cognito, CodeDeploy)
 - Docker/Git
 
-### TENTO Group株式会社(2024年11月~2024年12月)
+### TENTO Group株式会社：2024年11月~2024年12月
 #### 概要
 Wordpressを用いたコーポレートサイト制作を1人で実装。
 #### 開発言語等
