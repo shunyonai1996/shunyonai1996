@@ -32,11 +32,10 @@
 - Docker/Git/Backlog
 
 ## 副業
-### [株式会社fav](https://fav.blue/)
+### [株式会社fav](https://fav.blue/)(2023年11月~2024年10月)
 #### 概要
-期間:2023年11月~2024年10月
-LLMを用いたロールプレイングサービス開発にアサイン ※無給
-自身とCTOの2人体制で開発
+LLMを用いたロールプレイングサービス開発にアサイン。 ※無給
+自身とCTOの2人体制で開発。
 法人向けのダッシュボードの設計および開発を担当。
 CTOはLLM側の開発を担当。
 #### 開発言語等
@@ -44,10 +43,9 @@ CTOはLLM側の開発を担当。
 - AWS (EC2, Aurora, RDS for PostgreSQL, S3, API Gateway, Lambda(Python), Cognito, CodeDeploy)
 - Docker/Git
 
-### TENTO Group株式会社
+### TENTO Group株式会社(2024年11月~2024年12月)
 #### 概要
-期間:2024年11月~2024年12月
-Wordpressを用いたコーポレートサイト制作を1人で実装
+Wordpressを用いたコーポレートサイト制作を1人で実装。
 #### 開発言語等
 PHP/MySQL/Docker/Git/XServer
 ---
