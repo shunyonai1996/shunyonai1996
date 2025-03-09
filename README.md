@@ -1,3 +1,4 @@
+## ⚡️ Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,next,figma,python,fastapi,php,laravel,docker,terraform,aws,gcp,git" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shunyonai1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -58,7 +59,7 @@ PHP/MySQL/Docker/Git/XServer
 
 ---
 
-## 📫 連絡先
+## 📱 SNS
 - **GitHub:** [shunyonai1996](https://github.com/shunyonai1996)
 - **Wantedly:** [shun_yonai](https://www.wantedly.com/id/shun_yonai)
 - **Twitter (X):** [@kome_life](https://x.com/kome_life)
